@@ -4,7 +4,7 @@ cycler==0.10.0
 defusedxml==0.5.0
 dj-pagination==2.3.2
 django>=1.11.15
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 Faker==0.9.2
 idna==2.7
 kiwisolver==1.0.1
